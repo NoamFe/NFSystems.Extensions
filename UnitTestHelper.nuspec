@@ -6,8 +6,8 @@
     <title>Unit Test Helper</title>
     <authors>Noam Fein</authors>
     <owners>Noam Fein</owners>
-    <licenseUrl></licenseUrl>
-    <projectUrl></projectUrl>
+    <licenseUrl>https://github.com/NoamFe/UnitTestHelper</licenseUrl>
+    <projectUrl>https://github.com/NoamFe/UnitTestHelper</projectUrl>
     <iconUrl>https://avatars3.githubusercontent.com/u/7890777?s=140</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>unit test helper</description>
