@@ -1,7 +1,6 @@
-C:\fun\UnitTestHelper\UnitTestHelper\bin\Debug\UnitTestHelper.exe.config
-C:\fun\UnitTestHelper\UnitTestHelper\bin\Debug\UnitTestHelper.exe
 C:\fun\UnitTestHelper\UnitTestHelper\bin\Debug\UnitTestHelper.pdb
-C:\fun\UnitTestHelper\UnitTestHelper\obj\Debug\UnitTestHelper.csprojAssemblyReference.cache
 C:\fun\UnitTestHelper\UnitTestHelper\obj\Debug\UnitTestHelper.csproj.CoreCompileInputs.cache
-C:\fun\UnitTestHelper\UnitTestHelper\obj\Debug\UnitTestHelper.exe
 C:\fun\UnitTestHelper\UnitTestHelper\obj\Debug\UnitTestHelper.pdb
+C:\fun\UnitTestHelper\UnitTestHelper\bin\Debug\UnitTestHelper.dll.config
+C:\fun\UnitTestHelper\UnitTestHelper\bin\Debug\UnitTestHelper.dll
+C:\fun\UnitTestHelper\UnitTestHelper\obj\Debug\UnitTestHelper.dll

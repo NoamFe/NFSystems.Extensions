@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>UnitTestHelper</id>
+    <version>$version$</version>
+    <title>Unit Test Helper</title>
+    <authors>Noam Fein</authors>
+    <owners>Noam Fein</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/7890777?s=140</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description></description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright &#x00A9;   All rights reserved.</copyright>
+    <tags></tags>
+  </metadata>
+  <files>
+	<file src="UnitTestHelper\bin\$configuration$\UnitTestHelper.dll" target="lib\net40\" />
+  </files>
+</package>
