@@ -8,7 +8,7 @@
     <owners>Noam Fein</owners>
     <licenseUrl>https://github.com/NoamFe/NFSystems.Extensions</licenseUrl>
     <projectUrl>https://github.com/NoamFe/NFSystems.Extensions</projectUrl>
-    <iconUrl>https://avatars3.githubusercontent.com/u/11544699?s=40&u=a0d5979e51168ca10cd093d7037b736476935104&v=4<iconUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/11544699?s=40<iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>extensions for string, enum and IEnumerable</description>
     <releaseNotes></releaseNotes>
