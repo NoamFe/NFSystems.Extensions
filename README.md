@@ -10,3 +10,7 @@ EnumExtensions.Random<CarSize>()
 ```
 _vehiclesIn.IsEmpty()
 ```
+3)check if a string is empty:
+```
+"something".IsEmpty()
+```
