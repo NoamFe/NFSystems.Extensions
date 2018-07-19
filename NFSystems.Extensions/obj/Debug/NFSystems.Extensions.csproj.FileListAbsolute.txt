@@ -1,0 +1,13 @@
+C:\fun\UnitTestHelper\UnitTestHelper\bin\Debug\NFSystems.Extensions.dll.config
+C:\fun\UnitTestHelper\UnitTestHelper\bin\Debug\NFSystems.Extensions.dll
+C:\fun\UnitTestHelper\UnitTestHelper\bin\Debug\NFSystems.Extensions.pdb
+C:\fun\UnitTestHelper\UnitTestHelper\obj\Debug\NFSystems.Extensions.csproj.CoreCompileInputs.cache
+C:\fun\UnitTestHelper\UnitTestHelper\obj\Debug\NFSystems.Extensions.dll
+C:\fun\UnitTestHelper\UnitTestHelper\obj\Debug\NFSystems.Extensions.pdb
+C:\fun\UnitTestHelper\NFSystems.Extensions\bin\Debug\NFSystems.Extensions.dll.config
+C:\fun\UnitTestHelper\NFSystems.Extensions\bin\Debug\NFSystems.Extensions.dll
+C:\fun\UnitTestHelper\NFSystems.Extensions\bin\Debug\NFSystems.Extensions.pdb
+C:\fun\UnitTestHelper\NFSystems.Extensions\obj\Debug\NFSystems.Extensions.csprojAssemblyReference.cache
+C:\fun\UnitTestHelper\NFSystems.Extensions\obj\Debug\NFSystems.Extensions.csproj.CoreCompileInputs.cache
+C:\fun\UnitTestHelper\NFSystems.Extensions\obj\Debug\NFSystems.Extensions.dll
+C:\fun\UnitTestHelper\NFSystems.Extensions\obj\Debug\NFSystems.Extensions.pdb
