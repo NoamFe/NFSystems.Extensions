@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>UnitTestHelper</id>
+    <id>NFSystems.Extensions</id>
     <version>$version$</version>
-    <title>Unit Test Helper</title>
+    <title>NFSystems.Extensions</title>
     <authors>Noam Fein</authors>
     <owners>Noam Fein</owners>
-    <licenseUrl>https://github.com/NoamFe/UnitTestHelper</licenseUrl>
-    <projectUrl>https://github.com/NoamFe/UnitTestHelper</projectUrl>
-    <iconUrl>https://avatars3.githubusercontent.com/u/7890777?s=140</iconUrl>
+    <licenseUrl>https://github.com/NoamFe/NFSystems.Extensions</licenseUrl>
+    <projectUrl>https://github.com/NoamFe/NFSystems.Extensions</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/11544699?s=40&u=a0d5979e51168ca10cd093d7037b736476935104&v=4<iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>unit test helper</description>
+    <description>extensions for string, enum and IEnumerable</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright &#x00A9;   All rights reserved.</copyright>
     <tags></tags>
   </metadata>
   <files>
-	<file src="UnitTestHelper\bin\$configuration$\UnitTestHelper.dll" target="lib\net40\" />
+	<file src="NFSystems.Extensions\bin\$configuration$\NFSystems.Extensions.dll" target="lib\net40\" />
   </files>
 </package>
